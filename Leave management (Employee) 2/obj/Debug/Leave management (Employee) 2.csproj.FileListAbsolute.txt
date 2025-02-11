@@ -1,0 +1,11 @@
+D:\Leave management (Employee) 2\Leave management (Employee) 2\bin\Debug\Leave management (Employee) 2.exe.config
+D:\Leave management (Employee) 2\Leave management (Employee) 2\bin\Debug\Leave management (Employee) 2.exe
+D:\Leave management (Employee) 2\Leave management (Employee) 2\bin\Debug\Leave management (Employee) 2.pdb
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave management (Employee) 2.csproj.AssemblyReference.cache
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave_management__Employee__2.Dashboard.resources
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave_management__Employee__2.Form1.resources
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave_management__Employee__2.Properties.Resources.resources
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave management (Employee) 2.csproj.GenerateResource.cache
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave management (Employee) 2.csproj.CoreCompileInputs.cache
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave management (Employee) 2.exe
+D:\Leave management (Employee) 2\Leave management (Employee) 2\obj\Debug\Leave management (Employee) 2.pdb
